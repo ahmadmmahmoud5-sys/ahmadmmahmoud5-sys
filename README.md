@@ -10,7 +10,7 @@ I enjoy turning ideas into simple and clean web pages while continuously improvi
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=flat\&color=blue\&label=PROFILE+VIEWS)
+
 
 </div>
 
