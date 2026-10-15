@@ -102,14 +102,9 @@ I believe that building projects is one of the best ways to learn, so I practice
 
 ## 📂 Projects
 
-Here are some of the projects I'm working on while learning:
+Here are some of the projects I built while learning:
 
-* 🌐 Personal and introductory websites
-* 🎨 HTML & CSS practice projects
-* 🧩 Layout and Flexbox experiments
-* 📱 Responsive web pages
-* ⚡ JavaScript practice projects
-* 🛒 Simple web interfaces and online-store projects
+* 🌐 Link in Bio Website : https://ahmad-mahmmoud-profile.ahmadmmahmoud5.workers.dev/
 
 More projects will be added as I continue learning 🚀
 
